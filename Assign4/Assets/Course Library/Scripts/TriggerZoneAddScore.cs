@@ -26,7 +26,6 @@ public class TriggerZoneAddScore : MonoBehaviour
         {
             trig = true;
             uiM.score++;
-            Debug.Log("mmmm");
         }
     }
 
